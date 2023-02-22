@@ -44,6 +44,10 @@ a > i{
 h4{
   color: white;
 }
+
+div > h4 {
+  color: black;
+}
 .price > div{
   margin-right: 5px;
 }
@@ -161,4 +165,9 @@ h4{
 .socialsrl{
   position: absolute;
     right: 80px;
+}
+
+.different{
+  position: absolute;
+  left: 0;
 }
